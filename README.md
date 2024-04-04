@@ -30,6 +30,8 @@ If you don't know how to use a proxy, see [`use_proxy.md`](./use_proxy.md)
 See [`games.md`](./games.md)
 
 ## 🔗 Link Hubs
+A link hub is a site that contains apps and games, as well as a proxy on the main screen.
+These are really hard to find, but always the best option.
 - [Art Class](https://6524-opal.vercel.app/)
 - [Kazwire](https://dontstealit.norushcharge.com/)
 - [Interstellar](https://alabamacrimsontime-ne.vercel.app) (Looks like Google Classroom)
