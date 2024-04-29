@@ -37,6 +37,8 @@ These are really hard to find, but always the best option.
 - [Interstellar](https://alabamacrimsontime-ne.vercel.app) (Looks like Google Classroom)
 - [Equinox](https://gymworkout-v6.vercel.app/)
 - [Doge Unblocker](https://edumathforkids.vercel.app/app)
+- [Hahamini](https://www.hahamini.com/Pc/homeIndex)
+- [History Spot](https://historyspot.com/) (Click on 'Activities')
 
 ---
 
