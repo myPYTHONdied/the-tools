@@ -26,9 +26,6 @@ If you don't know how to use a proxy, see [`use_proxy.md`](./use_proxy.md)
 * [Portal](https://studiescool.vercel.app/) (Looks like clever portal)
 * [Imagine](https://prowqximathpage92.vercel.app/) (Looks like google drive)
 
-## 🎮 Games
-See [`games.md`](./games.md)
-
 ## 🔗 Link Hubs
 A link hub is a site that contains apps and games, as well as a proxy on the main screen.
 These are really hard to find, but always the best option.
@@ -37,8 +34,13 @@ These are really hard to find, but always the best option.
 - [Interstellar](https://alabamacrimsontime-ne.vercel.app) (Looks like Google Classroom)
 - [Equinox](https://gymworkout-v6.vercel.app/)
 - [Doge Unblocker](https://edumathforkids.vercel.app/app)
+
+## 🎮 Game Hubs
 - [Hahamini](https://www.hahamini.com/Pc/homeIndex)
 - [History Spot](https://historyspot.com/) (Click on 'Activities')
+- [Hooda Math Games](https://www.hoodamath.com/games/)
+- [Game Snacks](https://gamesnacks.com/)
+
 
 ---
 
